@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="backend/NKeeper.Plugins.Storage.csproj" />
+  <Project Path="tests/NKeeper.Plugins.Storage.Tests.csproj" />
+</Solution>
